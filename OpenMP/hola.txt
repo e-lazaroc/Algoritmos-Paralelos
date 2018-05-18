@@ -1,0 +1,1 @@
+Bienvenidos a la programacion en paralelo utilizando omp.
